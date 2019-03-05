@@ -27,6 +27,8 @@ public class MyStack2 {
         Stack<Integer> stack = new Stack<>();
         for (int i = 0; i <= 5; i++)
             stack.push(i);
+        int[] i = new int[2];
+        new String("hell").length();
         System.out.println(stack.toString());
         System.out.println(myStack2.Reverse(stack).toString());
     }
