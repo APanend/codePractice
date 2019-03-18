@@ -1,4 +1,4 @@
-package SizeOne;
+package Stackstack;
 
 import java.util.Stack;
 

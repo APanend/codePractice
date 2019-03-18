@@ -1,4 +1,4 @@
-package SizeNine;/**
+package Mapmap;/**
  * 题目：java实现LRU存储算法
  */
 

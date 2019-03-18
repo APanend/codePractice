@@ -1,4 +1,4 @@
-package SizeOne;
+package Stackstack;
 /**
  * 如何仅用递归函数和栈操作逆序一个栈
  */

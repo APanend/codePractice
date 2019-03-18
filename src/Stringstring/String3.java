@@ -1,4 +1,4 @@
-package SizeFive;/**
+package Stringstring;/**
  * 题目：一个字符串删掉多少字符可以变成最长子回文串
  */
 
@@ -24,10 +24,12 @@ public class String3 {
 
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
+        System.out.println(3/2);
+
         while (sc.hasNext()) {
             String s1 = sc.next();
             String sb = new StringBuilder(s1).reverse().toString();
-            System.out.println(s1.length() - hello(s1, sb, 0, 0, 0));
+//            System.out.println(s1.length() - hello(s1, sb, 0, 0, 0));
         }
     }
 }

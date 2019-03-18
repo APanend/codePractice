@@ -1,4 +1,4 @@
-package SizeOne;
+package Stackstack;
 import java.util.Stack;
 import java.util.Scanner;/**
  * 题目：求字符串最后一个单词的长度

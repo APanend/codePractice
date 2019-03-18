@@ -1,4 +1,4 @@
-package SizeEight;
+package Arrayarray;
 /**
  * 输入描述:
  * 输入多行，先输入随机整数的个数，再输入相应个数的整数
